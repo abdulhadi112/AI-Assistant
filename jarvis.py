@@ -65,7 +65,7 @@ def takeCommand():
     try:
         print("Recognizing...")
         query = r.recognize_google(audio, language='en-in')
-        print(f"Krishna Said:{query}\n")
+        print(f"AbdulHadi Said:{query}\n")
     except Exception as e:
         print(e)
         speak("Sorry didn't get that")
@@ -183,7 +183,7 @@ if __name__ == "__main__":
             os.system("shutdown /r /t 1")
 
         elif 'play songs' in query:
-            path_to_songs = 'C:\\Users\\Krishna ravi\\Music\\'
+            path_to_songs = 'C:\\Users\\AbdulHadiravi\\Music\\'
             songs = os.listdir(path_to_songs)
             os.startfile(os.path.join(path_to_songs, songs[0]))
 

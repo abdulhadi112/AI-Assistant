@@ -11,34 +11,34 @@ In this mini project, I've attempted to create a very simple Personal Assistant 
 Jarvis-Ai-Assistant can perform tasks like:
 
 
-* Krishna said: Hey Jarvis
+* AbdulHadisaid: Hey Jarvis
 
 * J.A.R.V.I.S :  hello sir, what can i do for you?
 
 
-* Krishna said: What's the time
+* AbdulHadisaid: What's the time
 
 * J.A.R.V.I.S :  The current time is 12.32 am
 
 
-* Krishna said: What's the date
+* AbdulHadisaid: What's the date
 
 * J.A.R.V.I.S :  Today's date is 02-06-2020
 
 
-* Krishna said: Remember that
+* AbdulHadisaid: Remember that
 
 * J.A.R.V.I.S :  What do you want me to remember sir?
 
-* Krishna said : Your name is Jarvis!
+* AbdulHadisaid : Your name is Jarvis!
 
 * J.A.R.V.I.S :  You told me to remember that "your name is Jarvis",I remember that now.
 
-* Krishna said: Do you know anything
+* AbdulHadisaid: Do you know anything
 
 * J.A.R.V.I.S : You have said me to remember that "your name is Jarvis"
 
-* Krishna said: Take screenshot
+* AbdulHadisaid: Take screenshot
 
 * J.A.R.V.I.S : Done
 
